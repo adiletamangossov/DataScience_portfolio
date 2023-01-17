@@ -4,7 +4,6 @@ Hello, I'm Adilet! I have a math background and hold a Master of Science (M.S.) 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 Contacts
-LinkedIn: @nktnlx
-Telegram: @nktnlx
-Twitter: @nktn_lx
-E-mail: nktn.lx@gmail.com
+
+Telegram: @adiletamangossov
+E-mail: adilet.amangossov@gmail.com
