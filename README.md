@@ -48,8 +48,3 @@ A curated collection of data science projects demonstrating my ability to solve 
 - **Email**: [adilet.amangossov@gmail.com](mailto:adilet.amangossov@gmail.com)  
 
 *Let’s collaborate to turn data into actionable insights!*  
-
-Contacts
-
-Telegram: @adiletamangossov
-E-mail: adilet.amangossov@gmail.com
